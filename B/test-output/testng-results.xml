@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Tc1 Running]]>
+    </line>
+    <line>
+      <![CDATA[Tc2 Running]]>
+    </line>
+    <line>
+      <![CDATA[Tc3 Running]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-10-01T13:48:39 IST" name="Suite" finished-at="2023-10-01T13:48:39 IST" duration-ms="95">
+    <groups>
+    </groups>
+    <test started-at="2023-10-01T13:48:39 IST" name="Test" finished-at="2023-10-01T13:48:39 IST" duration-ms="95">
+      <class name="test.Tc2Test">
+        <test-method signature="m2()[pri:0, instance:test.Tc2Test@306e95ec]" started-at="2023-10-01T13:48:39 IST" name="m2" finished-at="2023-10-01T13:48:39 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Tc2 Running]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- m2 -->
+      </class> <!-- test.Tc2Test -->
+      <class name="test.Tc3">
+        <test-method signature="m3()[pri:0, instance:test.Tc3@52af26ee]" started-at="2023-10-01T13:48:39 IST" name="m3" finished-at="2023-10-01T13:48:39 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Tc3 Running]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- m3 -->
+      </class> <!-- test.Tc3 -->
+      <class name="test.Tc1Test">
+        <test-method signature="m1()[pri:0, instance:test.Tc1Test@7205765b]" started-at="2023-10-01T13:48:39 IST" name="m1" finished-at="2023-10-01T13:48:39 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Tc1 Running]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+      </class> <!-- test.Tc1Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
