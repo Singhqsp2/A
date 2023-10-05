@@ -13,5 +13,10 @@ public class Tc2Test {
 	{
 		Reporter.log("Tc2 Running",true);
 	}
+	@Test
+	public void m21()
+	{
+		Reporter.log("Tc21 Running",true);
+	}
 
 }
