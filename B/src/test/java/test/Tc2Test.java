@@ -18,10 +18,34 @@ public class Tc2Test {
 	{
 		Reporter.log("Tc21 Running",true);
 	}
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	@Test
 	public void m211()
 	{
 		Reporter.log("Tc211 Running",true);
+
 	}
+	@Test
+	public void m241()
+	{
+		Reporter.log("Tc241 Running",true);
+ 	}
 
 }
